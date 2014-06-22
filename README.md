@@ -1,7 +1,3 @@
-
-name: oss-checklist
-tagline: open source software best practices. standards & compliance checklist
-
 TODO: link website 
 Check it out here: www.XXXX.com
 
