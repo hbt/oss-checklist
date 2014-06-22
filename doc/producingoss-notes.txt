@@ -1,0 +1,197 @@
+checklist OSS:
+
+use stages 
+- stage 1
+    name 
+    description
+    tag
+    usage 
+    install
+    features 
+    requirements
+
+- stage 2
+    contributors
+    volunteers
+    faq
+    issues
+    etc.
+
+- stage 3 
+    business models 
+    communications etc.
+
+What is OSS?
+
+
+Questions to ask *before* starting an OSS project:
+
+
+- name 
+    - gives an idea of what the project does
+    - easy to remember
+    - is not the same as some other project's name
+    - is available as a domain .com, .net or .org
+- tagline
+    - one line. clear mission statement. purpose
+- short description
+     quick description to decide in less than 30sec if they want to learn more or not. Concrete, limited, short. 
+Can be be more than one sentence
+
+
+
+- Features list
+    e.g 
+            - search
+            - sort results 
+- Requirements list 
+    - python 2.2 
+    - dependencies
+
+
+
+- Development status
+    - vision 
+    - progress 
+    - progress of features if project is very new
+    - if project is mature
+        - recent activity, recent releases, issues, analytics
+        - is it maintained?
+        - how often it puts out new releases?
+        - how responsive it is likely to be to bug reports?
+        - history of past releases / change log
+        - future releases (roadmap)
+        - *** a panel that aggregates data on the status of the project to show developmenet stauts and progress ***
+           - timeline of recent releases
+           - recent activity in bug tracker
+           - mailing lists / forum activity / google groups
+
+    - developement status should answer two questions:
+            - where does the project stand in relation to its stated goals?
+            - how fast is it making progress?
+            - how active is the project?
+                - is stuff going on? are there people getting things done?
+           e.g launchpad.net
+    should reflect reality -- don't hype, don't acquire a reputation for buggy software that failed to deliver
+
+
+- download section for binaries if any
+    - provide checksums and easy downloads in case of auto-updates
+
+- clear install / usage 
+- list of communication channels -- forums/mailing list, chat rooms, twitter etc.
+
+- developer 
+    - guidelines
+        - how to interact with other developers
+        - how to report bugs / submit patches
+        - how development is done / decisiosn made 
+
+    - developer documentation
+        - difference from guidelines is ". Developer guidelines tell programmers how to get along with each other; developer documentation tells them how to get along with the code itself."
+        - grown not written
+        - focus on user documentation because users with an incentive + knowledge will dig into the code
+
+- documentation
+    - how to quickly set up the software
+    - overview of how it works
+    - guides to doing common tasks
+    - should be all in one page because people want to search for specific words
+
+- guidelines to writing documentation 
+    - limit the scope
+    - tell the reader how much knowledge they are expected to have e.g know rvm, ruby, + apt-get
+    - tell the reader how to verify that the install was correct
+    - startup documentation is more important than usage documentation
+    - one tutorial on how to do a common task
+    - highlight areas where documnetation is incomplete
+
+- maintaining a FAQ
+    - good FAQs are grown not written. They are based on experience gathered and previous questions asked and patterns
+    - FAQs are also a good indication of major improvements waiting to be made in the application because that many people should not be asking the same question over and over if the answer was not obvious
+    - monitor stackoverflow tags related to your project
+
+- demos / screenshots/ videos / example output
+    - web-based = demo site
+    - GUIs = screenshots + maybe videos (with subtitles / narrator (less than 4m))
+    - console, try ttyrecord
+
+- extra stuff (not necessary for a start)
+    - news page
+    - project history page
+    - related links
+    - site-search
+    - donations
+    - blog 
+    - ***make a list***
+
+- marketing 
+    - promote your project
+
+- patches
+    - review & accept as quickly as humanly possible
+- emails 
+    - reply quickly
+
+- create a welcoming atmosphere
+- make things easy 
+    - easy to install, modify, find the project, find documentation, try etc.
+
+- mention alternatives / comparisons to other solutions
+- mention how the software can be integrated / used
+- License
+- are you still using it? "eat your own dog food"
+
+- open your code, not your time -- decisions on what the project is and your role in it
+what is it?
+
+why build it?
+
+how it works?
+
+documentation 
+    - developer guide (to explain the API, naming conventions, tookit issues etc.)
+    - user guide (comprehensive guide for users on how to operate the software)
+    - requirements / design document 
+        - list of modules/systems + interactions / diagrams
+        - what modules should do (inputs, outputs)
+    - all 3 documents above must be on source control
+
+- clarify expectations
+    - what can people expect from you? will you respond to bugs and address them?
+
+- questions to ask before starting a project
+    - does your idea apply to yourself or can others use it?
+    - has somebody already had your idea or similar one?
+    - choose collaboration instead if any of this is true: "Will the new project be duplicating work done by another project? Will the new project be competing for developers with an existing project? Can the goals of the new project be accomplished by adding functionality to an existing project?"
+
+- changelog
+what has been changed, fixed, or added to the program
+
+- explain your branches
+
+
+- choose a license
+
+- code reviews 
+
+- avoid private discussions and rudeness
+
+- be open from day one
+    - open sourcing later means reviewing the code / history for personal data and such
+    - difficult because you will always favor decisions that make it incompatible for the future 
+- promotion / marketing / announcement
+    http://freecode.com/
+    http://www.ohloh.net/
+    specific forums/group or similar project related to your project
+
+- website = user section and developer section
+    - "get involved" = other type of volunteers (support, triage, donations, UI designers, marketing etc.) https://wiki.documentfoundation.org/Get_Involved https://wiki.documentfoundation.org/Marketing
+    - dev wiki = excellent example https://wiki.documentfoundation.org/Development
+
+- rss feed or twitter feed or pump.io for events, releases etc. tag and dont spam
+
+- metrics
+    - operational health: s the project's ongoing ability to incorporate new code contributions and new developers, and to be responsive to incoming bug reports
+    - Survivability is the project's ability to exist independently of any individual participant or sponsor—think of it as the likelihood that the project would continue even if all of its founding members were to move on to other things
+
