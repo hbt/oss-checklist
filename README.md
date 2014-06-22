@@ -1,4 +1,4 @@
-TODO: remove
+TODO: remove notice
 
 WORK IN PROGRESS
 
@@ -67,6 +67,7 @@ Have better ideas on how to contribute? [get in touch](https://github.com/hbtlab
 **Status:** Active. Working on Stage 1 (building the checklist)
 
 
+TODO: fix
 #####Implemented features:
 - 
 
