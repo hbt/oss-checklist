@@ -11,7 +11,7 @@ Check it out here: www.XXXX.com
 
 ##What is it?
 
-**oss-checklist** is a list of best practices in **O**pen **S**ource **S**oftware (***OSS***) inspired by [producingoss](producingoss.com).
+**oss-checklist** is a list of best practices in Open Source Software (***OSS***) inspired by [producingoss](http://producingoss.com).
 
 It aims to improve the state of OSS projects by clearly identifying common best practices to facilitate development, communication, contributions and boost project quality.
 
@@ -34,7 +34,7 @@ TODO: link website
 Check out the website XXXX.com and 
 
 
-------------------------------------------------------
+
 --
 
 ##Contributors:
@@ -48,7 +48,7 @@ TODO: get involved wiki link
 Share your **knowledge** by answering questions we have about:
 
 - marketing (promotion)
-- other open source software practices refences such as [producingoss](producingoss.com)
+- other open source software practices / refences such as [producingoss](http://producingoss.com)
 
 
 Share your **skills** by taking *small tasks* related to issues we struggle with
@@ -59,7 +59,7 @@ Share any **feedback** by logging new issues [here](https://github.com/hbtlabs/o
 Have better ideas on how to contribute? [get in touch](https://github.com/hbtlabs/oss-checklist/issues/new)
 
 
-------------------------------------------------------
+
 --
 
 ### Development
@@ -71,6 +71,7 @@ Have better ideas on how to contribute? [get in touch](https://github.com/hbtlab
 - 
 
 
+TODO improve formatting 
 
 ####Project Vision and future:
 **Stage 1:**
