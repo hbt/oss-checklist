@@ -1,8 +1,7 @@
 <img src="http://i.imgur.com/37IpIPh.png" width="150" alt="Project under construction"/>
 
-        
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>
-<!-- TODO(hbt) link website -->
+
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO fix website link"/>
 Check it out here: www.XXXX.com
 
 
@@ -27,8 +26,7 @@ The *README* file often does not even include useful information such as: instal
 
 ##How do I use it?
 
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>
-<!-- TODO(hbt) link website -->
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO fix website link"/>
 Check it out here: www.XXXX.com
 
 
@@ -39,10 +37,9 @@ Check it out here: www.XXXX.com
 
 *Contributing knowledge is what open source is all about.*
 
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>
-<!-- TODO(hbt) get involved wiki link -->        
-
-[**Get Involved!**](link) 
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"
+     title="TODO: fix involved wiki link + create page"/>
+[**Get Involved!**](link)
 
 Share your **knowledge** by answering questions we have about:
 
@@ -66,8 +63,8 @@ Have better ideas on how to contribute? [get in touch](https://github.com/hbtlab
 **Status:** Active. Working on Stage 1 (building the checklist)
 
 
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>
-<!-- TODO(hbt) extract roadmap to wiki and fix formatting -->
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"
+     title="TODO: extract roadmap to wiki and fix formatting "/>        
 ####Project Vision and future:
 **Stage 1:**
 
