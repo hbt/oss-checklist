@@ -117,4 +117,8 @@ TODO: same as stage 2
 
 ---
 
-License - [MIT](http://opensource.org/licenses/MIT)
+### License
+
+Copyright (c) 2014 - Hassen Ben Tanfous
+
+[The MIT License (MIT)](http://opensource.org/licenses/MIT)
