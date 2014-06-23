@@ -1,18 +1,13 @@
 <img src="http://i.imgur.com/37IpIPh.png" width="150" alt="Project under construction"/>
 
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: add website in tagline github"/>
+        
+        
+## oss-checklist
+        
+provides a checklist of best practices in Open Source Software (***OSS***) based on existing <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>  [litterature](link)   
 
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO fix website link"/>
-Check it out here: www.XXXX.com
-
-
-##What is it?
-
-**oss-checklist** is a list of best practices in Open Source Software (***OSS***) inspired by [producingoss](http://producingoss.com).
-
-It aims to improve the state of OSS projects by clearly identifying common best practices to facilitate development, communication, contributions and boost project quality.
-
-
-New and mature projects can use it as a reminder as to what the community expects from OSS projects.
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO fix website link"/> [**The Checklist**](link)      
 
 
 ##Why build it?
@@ -21,13 +16,16 @@ Because **too many projects are code dumps** with a short README file.
 The *README* file often does not even include useful information such as: install / usage / features / requirements / development status / is the project still active? etc.
 
 **OSS projects often go unnoticed and die due to poor communication and lack of information**
+This project aims to improve the state of OSS projects by clearly identifying common best practices to facilitate development, communication, contributions and boost project quality.This project 
 
+New and mature projects can use it as a reminder as to what the community expects from OSS projects.
 
 
 ##How do I use it?
 
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO fix website link"/>
-Check it out here: www.XXXX.com
+
+Visit 
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO fix website link"/> [**The Checklist**](link)      
 
 
 
