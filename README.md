@@ -1,11 +1,8 @@
-TODO: remove notice
+<img src="http://i.imgur.com/37IpIPh.png" width="150" alt="Project under construction"/>
 
-WORK IN PROGRESS
-
-
-
-
-TODO: link website 
+        
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>
+<!-- TODO(hbt) link website -->
 Check it out here: www.XXXX.com
 
 
@@ -30,8 +27,9 @@ The *README* file often does not even include useful information such as: instal
 
 ##How do I use it?
 
-TODO: link website 
-Check out the website XXXX.com and 
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>
+<!-- TODO(hbt) link website -->
+Check it out here: www.XXXX.com
 
 
 
@@ -41,7 +39,8 @@ Check out the website XXXX.com and
 
 *Contributing knowledge is what open source is all about.*
 
-TODO: get involved wiki link
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>
+<!-- TODO(hbt) get involved wiki link -->        
 
 [**Get Involved!**](link) 
 
@@ -67,22 +66,15 @@ Have better ideas on how to contribute? [get in touch](https://github.com/hbtlab
 **Status:** Active. Working on Stage 1 (building the checklist)
 
 
-TODO: fix
-#####Implemented features:
-- 
-
-
-TODO improve formatting 
-
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>
+<!-- TODO(hbt) extract roadmap to wiki and fix formatting -->
 ####Project Vision and future:
 **Stage 1:**
 
-TODO: link website 
 - checklist of best practices and includes examples from popular OSS projects
 - build checklist with examples XXXX.com
 - promote checklist on websites
  
-TODO: extract into wiki but put a summary here i.e analyze + evaluate + compare OSS 
 **Stage 2:**
 - oss-quality-analysis
 software to analyze existing projects and evaluate the quality (based on items from the checklist). It should answer questions such as:
@@ -101,7 +93,6 @@ software to analyze existing projects and evaluate the quality (based on items f
         - promote the checklist + analysis software
         - allow user to show quality metrics easily from their project's homepage (mini image ala bitdeli with metrics). e.g rate at which tickets get addressed
         
-TODO: same as stage 2
 **Stage 3:**
 
     build a template generator for oss to cover all aspects (license, hosting etc. using third party tools)
