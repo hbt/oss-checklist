@@ -5,7 +5,7 @@
         
 ## oss-checklist
         
-provides a checklist of best practices in Open Source Software (***OSS***) based on existing <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>  [litterature](link)   
+provides a checklist of best practices in Open Source Software (***OSS***) based on existing <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>  [literature](link)   
 
 <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO fix website link"/> [**The Checklist**](link)      
 
