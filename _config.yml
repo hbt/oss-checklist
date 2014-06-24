@@ -5,6 +5,9 @@ description: "http://hbtlabs.github.io/oss-checklist/"
 baseurl: "http://hbtlabs.github.io/oss-checklist"
 url: "http://hbtlabs.github.io/oss-checklist"
 
+# DEV: set this to empty when developing locally
+#baseurl: ""
+
 # Build settings
 markdown: kramdown
 permalink: pretty
