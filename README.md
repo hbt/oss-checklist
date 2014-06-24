@@ -105,6 +105,6 @@ software to analyze existing projects and evaluate the quality (based on items f
 
 ### License
 
-Copyright (c) 2014 - Hassen Ben Tanfous
+Copyright (c) 2014 - hbtlabs
 
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
