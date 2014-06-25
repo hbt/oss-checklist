@@ -1,11 +1,12 @@
 # Site settings
 title: oss-checklist
 email: hassenbentanfous@gmail.com
-description: "http://hbtlabs.github.io/oss-checklist/"
+description: "OSS best practices"
 baseurl: "http://hbtlabs.github.io/oss-checklist"
 url: "http://hbtlabs.github.io/oss-checklist"
 
 # DEV: set this to empty when developing locally
+# // TODO(hbt) fix dev + git-assume 
 #baseurl: ""
 
 # Build settings
