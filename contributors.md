@@ -13,6 +13,12 @@ TODO:
     - add tips / howto 
     - sharing idea / expertise (e.g how to promote, marketing, improving the list, reviewing content)
     - add philosophy regarding visualization and transparency + 
+    - add edit link pointing to github on all pages to encourage quick edits / contributions 
+    - document everything to develop locally
+        - git assume 
+        - install jekyll 
+        - editing md
+    - explain the todo system as it is now
 
 
 
