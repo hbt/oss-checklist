@@ -8,7 +8,7 @@ date:   2014-06-24 20:27:00
         
 ## What is it?
         
-[Checklist](/2014/06/24/checklist) of best practices in Open Source Software (***OSS***) based on existing literature (  [publications](link), <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: fix link to literature + point to resources. fix publications/books/research links + create pages"/>  [books](link), [case studies][link] etc. )
+[Checklist](2014/06/24/checklist) of best practices in Open Source Software (***OSS***) based on existing literature (  [publications](link), <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: fix link to literature + point to resources. fix publications/books/research links + create pages"/>  [books](link), [case studies][link] etc. )
 
 
 ##Why build it?
@@ -43,7 +43,7 @@ We need your brain!
 
 **Status:** Active. Currently working on stage 1 
 
-[Roadmap](/2014/06/24/roadmap)
+[Roadmap](2014/06/24/roadmap)
 
 
 ---
