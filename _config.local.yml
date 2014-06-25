@@ -1,9 +1,14 @@
+# identical to _config with the exception of #DEV flags
+
 # Site settings
 title: oss-checklist
 email: hassenbentanfous@gmail.com
 description: "OSS best practices"
 baseurl: "http://hbtlabs.github.io/oss-checklist"
 url: "http://hbtlabs.github.io/oss-checklist"
+
+# DEV: set this to empty when developing locally
+baseurl: ""
 
 # Build settings
 markdown: kramdown
