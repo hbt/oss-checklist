@@ -7,6 +7,14 @@ permalink: /contributors/
 <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: create"/>
 
 
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: "/>
+TODO:
+    - list roles + tasks + assignee 
+    - add tips / howto 
+    - sharing idea / expertise (e.g how to promote, marketing, improving the list, reviewing content)
+    - add philosophy regarding visualization and transparency + 
+
+
 
 
 Share your **knowledge** by answering questions we have about:
