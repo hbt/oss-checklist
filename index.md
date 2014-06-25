@@ -4,8 +4,7 @@ title:  "Open Source Software best practices checklist"
 date:   2014-06-24 20:27:00
 ---
 
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: remove under construction when ready"/>
-<img src="http://i.imgur.com/37IpIPh.png" width="150" alt="Project under construction"/>
+<img src="http://i.imgur.com/37IpIPh.png" width="150" alt="Project under construction" title="TODO: remove when ready"/>
         
 ## What is it?
         
@@ -42,7 +41,9 @@ We need your brain!
 
 ### Development
 
-**Status:** Active. Currently working on stage 1 <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: document roadmap + stages"/>
+**Status:** Active. Currently working on stage 1 
+
+[Roadmap](/2014/06/24/roadmap)
 
 
 ---
@@ -54,4 +55,3 @@ Copyright (c) 2014 - hbtlabs
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
 
 <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: add bottom links for hbtlabs.io homepage (list active projects + status)"/>
-
