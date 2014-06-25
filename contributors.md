@@ -4,34 +4,40 @@ title: Get Involved!
 permalink: /contributors/
 ---
 
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: create"/>
 
 
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: "/>
-TODO:
-    - list roles + tasks + assignee 
-    - add tips / howto 
-    - sharing idea / expertise (e.g how to promote, marketing, improving the list, reviewing content)
-    - add philosophy regarding visualization and transparency + 
-    - add edit link pointing to github on all pages to encourage quick edits / contributions 
-    - document everything to develop locally
-        - git assume 
-        - install jekyll 
-        - editing md
-    - explain the todo system as it is now
+### Communication
+Ideas,requests,questions,anything related to this project?  Log it [here](https://github.com/hbtlabs/oss-checklist/issues/new)
 
 
 
+### Contribute
+To facilitate contributions, we take an open design approach. Things that require attention are identified by a <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/> icon.
 
-Share your **knowledge** by answering questions we have about:
+Steps to solving a task identified by <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20"/>
 
-- marketing (promotion)
-- other open source software practices / refences such as [producingoss](http://producingoss.com)
+  - mouse over to read the task
+  - log the task in the tracker
+  - a developer will triage, and link the task to the issue id and assign it to you
+  - send a pull request solving the task
+  - pull request is reviewed, merged, task icon is removed and issue is closed
+  - <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: improve by having a script automatically log these issues and transform these icons into a link"/>
+  
+  
+### Other stuff we need help with: 
+
+  - research, reviewing and more [resources](/resources)
+  - improving the [checklist](/checklist)
+  - promoting and marketing the project through experiments
+  - recruiting collaborators
+  - [other stuff/ideas?](https://github.com/hbtlabs/oss-checklist/issues/new)
 
 
-Share your **skills** by taking *small tasks* related to issues we struggle with
-
-Share any **feedback** by logging new issues [here](https://github.com/hbtlabs/oss-checklist/issues/new)
 
 
-Have better ideas on how to contribute? [get in touch](https://github.com/hbtlabs/oss-checklist/issues/new)
+### Tips/HOWTO
+
+  - Editing: <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: document tips"/>
+      - what's the fastest way to edit something?
+      - how to edit the site locally?
+
