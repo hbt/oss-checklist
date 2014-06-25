@@ -53,5 +53,3 @@ We need your brain!
 Copyright (c) 2014 - hbtlabs
 
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
-
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: add bottom links for hbtlabs.io homepage (list active projects + status)"/>
