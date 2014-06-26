@@ -4,6 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: inv work criteria instead of checklist -- maybe more matches on google"/>
+
 ## Quotes
 
 - "A Project Lives (Or Dies) On Documentation.  A project without documentation is almost guaranteed to fail. "
@@ -26,14 +28,10 @@ permalink: /resources/
 
 
 
-##Books  <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: review books https://opensource.com/resources/ebooks"/>
+##Books  
 
-
+- https://opensource.com/resources/ebooks
 - producingoss 
-
-
-    
-    
 - Art_of_Community_Second_Edition  http://www.artofcommunityonline.org/about/#chapter1 
 
 
@@ -45,10 +43,25 @@ permalink: /resources/
 
 
 ##Blogs
+- http://www.realstorygroup.com/Blog/2390-Should-You-Evaluate-Open-Source-Projects-Any-Differently
+- http://fossfolks.com/new-folks/how-to-evaluate-open-source-small-business-apps/
+- http://www.zdnet.com/amsterdam-to-evaluate-open-source-3039285307/
+- http://www.tuxmachines.org/node/66205
+- http://www.linuxjournal.com/article/8301
+- http://www.itbusinessedge.com/cm/community/features/guestopinions/blog/how-to-evaluate-open-source-solutions/?cs=32754
+- ***
+- http://e-records.chrisprom.com/oss-evaluation-project/ --- potential collaborator
+- http://e-records.chrisprom.com/resources/software/
+
+- ***
+- http://sosopensource.com/88.html
+- http://sosopensource.com/4.html
+- http://www.smallbusinesscomputing.com/biztools/article.php/3919996/10-Tips-When-Considering-Open-Source-Software.htm
 - http://firstmonday.org/ojs/index.php/fm/article/viewArticle/1470/1385
 -  http://mako.cc/projects/howto/FreeSoftwareProjectManagement-HOWTO.html
 - http://www.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html
 - http://catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html
+- http://moo.nac.uci.edu/~hjm/How_to_Evaluate_OSS.html
 
 - http://stephesblog.blogs.com/my_weblog/2013/06/collected-ideas-on-open-source-software.html
     - TODO <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: "/>
@@ -71,11 +84,17 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
             - user guide
             - requirements / design
 
+- http://www.outercurve.org/Blogs/EntryId/72/Making-Open-Source-Software
+- http://www.dwheeler.com/oss_fs_eval.html
 
 ## Organizations <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: find other known organizations https://opensource.com/resources/organizations"/>
 
 
-
+- http://oss-watch.ac.uk/resources/
+    - check their articles
+    - http://oss-watch.ac.uk/resources/
+    - http://oss-watch.ac.uk/resources/howtobuildcommunity
+    - http://oss-watch.ac.uk/resources/evaluatingsustainability
 - OSI http://opensource.org/
 - flosshub
     - TODO: <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: "/>
@@ -95,6 +114,8 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
                 
 ## Sites
 
+- http://firstmonday.org/ojs/index.php/fm/article/view/1018/939%26gt%3BI
+- http://www.dwheeler.com/oss_fs_why.html
 - opensource.com 
     - check FAQ http://opensource.com/resources
     - http://opensource.com/resources/what-open-source
@@ -116,6 +137,7 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
     - TODO check their code center  <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: "/>
 - http://www.osthinktank.com/events/open-source-think-tank-spring-2014/event-summary-bafe74fefce34c9a8dcbef90bc8cab20.aspx    
 
+- http://programmers.stackexchange.com/questions/8805/how-to-evaluate-an-open-source-project-with-joining-in-mind
 
 ## publications
 
@@ -124,3 +146,10 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
 
 
 
+## Talks
+
+- http://vimeo.com/71984135
+
+
+## $ 
+- http://www.sonatype.com/
