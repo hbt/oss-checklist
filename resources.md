@@ -43,6 +43,10 @@ permalink: /resources/
 
 
 ##Blogs
+- http://www.computerworld.com/s/article/9238878/Sizing_up_open_source_Not_so_simple?pageNumber=1
+- http://timreview.ca/article/78
+- http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3976812/
+- http://lwn.net/Articles/525718/
 - http://www.realstorygroup.com/Blog/2390-Should-You-Evaluate-Open-Source-Projects-Any-Differently
 - http://fossfolks.com/new-folks/how-to-evaluate-open-source-small-business-apps/
 - http://www.zdnet.com/amsterdam-to-evaluate-open-source-3039285307/
@@ -90,6 +94,7 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
 ## Organizations <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: find other known organizations https://opensource.com/resources/organizations"/>
 
 
+- http://www.oscon.com/oscon2014
 - http://oss-watch.ac.uk/resources/
     - check their articles
     - http://oss-watch.ac.uk/resources/
@@ -113,6 +118,8 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
                 - http://www.citeulike.org/group/2518/article/791631
                 
 ## Sites
+
+- codeplex.com
 
 - http://firstmonday.org/ojs/index.php/fm/article/view/1018/939%26gt%3BI
 - http://www.dwheeler.com/oss_fs_why.html
@@ -151,5 +158,24 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
 - http://vimeo.com/71984135
 
 
+
+## open government + open source
+- http://eaves.ca/about-david/
+
 ## $ 
 - http://www.sonatype.com/
+
+
+## Help
+
+- http://sourceforge.net/p/forge/helpwanted/misc/
+- http://www.reddit.com/r/opensource/
+
+-http://stackoverflow.com/questions/2353179/what-is-the-best-method-to-gain-users-and-contributors-for-my-own-open-source-pr
+- http://stackoverflow.com/questions/2567766/best-practices-for-setup-and-management-of-an-open-source-project?rq=1
+- http://stackoverflow.com/questions/555982/what-are-the-best-practices-for-releasing-an-open-source-project?rq=1
+- http://stackoverflow.com/questions/119829/what-are-some-things-that-you-do-to-make-sure-a-project-is-ready-to-be-released
+
+
+
+
