@@ -4,6 +4,14 @@ title: Resources
 permalink: /resources/
 ---
 
+
+## checklist on howto review resources
+
+- skim through article
+- categorize
+- browse site for other interesting/related articles 
+- flag said articles for later
+
 <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: inv work criteria instead of checklist -- maybe more matches on google"/>
 
 ## Quotes
@@ -43,6 +51,22 @@ permalink: /resources/
 
 
 ##Blogs
+- http://www.linux-mag.com/id/2421/
+- http://www.idealware.org/blog/2009/03/evaluating-open-source-systems-hard.html
+- http://redmonk.com/sogrady/2010/10/05/open-source-email-traffic/
+- http://www.dmst.aueb.gr/dds/pubs/conf/2008-SQM-SQOOSS/html/SGKL09.html
+-http://dodcio.defense.gov/OpenSourceSoftwareFAQ
+- https://javaho.wordpress.com/2011/05/17/steps-to-evaluate-open-source-software/
+- http://www.ebizq.net/topics/open_source/features/6853.html
+- **** http://www.dwheeler.com/oss_fs_eval.html
+- https://dl.acm.org/citation.cfm?id=1519971
+- http://research.microsoft.com/apps/video/dl.aspx?id=194743
+- https://opensource.com/life/14/1/evaluate-sustainability-open-source-project
+- http://www.linuxfoundation.org/news-media/blogs/browse/2009/02/how-evaluate-open-source-projects
+- http://www.nten.org/blog/2008/01/11/evaluating-free-and-open-source-software
+- http://www.ebizq.net/topics/open_source/features/6789.html
+- http://typo3.org/news/article/how-to-evaluate-open-source-communities/
+- http://www.oscon.com/oscon2014
 - http://www.computerworld.com/s/article/9238878/Sizing_up_open_source_Not_so_simple?pageNumber=1
 - http://timreview.ca/article/78
 - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3976812/
@@ -156,6 +180,9 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
 ## Talks
 
 - http://vimeo.com/71984135
+- oscon
+    - inv other o'reilly ventures
+    
 
 
 
@@ -164,6 +191,7 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
 
 ## $ 
 - http://www.sonatype.com/
+- http://www.openlogic.com/
 
 
 ## Help
@@ -178,4 +206,6 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
 
 
 
+# similar
 
+- http://www.ossmeter.org/
