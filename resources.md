@@ -7,6 +7,7 @@ permalink: /resources/
 
 ## checklist on howto review resources
 
+
 - skim through article
 - categorize
 - browse site for other interesting/related articles 
@@ -29,10 +30,29 @@ permalink: /resources/
 - pre-requisites to starting  a project
   - evaluate and articulate your idea
   - finding similar / related projects
+  
+- Contributors
+    - incentives 
+        - http://www.dwheeler.com/oss_fs_why.html#motivation
+    - management
+        - http://www.dwheeler.com/oss_fs_why.html#management
+  
 - Economics of open source
+    - http://firstmonday.org/ojs/index.php/fm/article/view/1470/1385
+    - http://www.freeos.com/articles/4087
+    - https://web.archive.org/web/20030203030829/http://clustering.foundries.sourceforge.net/article.pl?sid=02/08/19/1426245
+    - http://osdir.com/ml/politics.oekonux.english/2003-10/msg00118.html
+    - http://www.linuxtoday.com/infrastructure/2001051601220OP
+    
 -   analysis of business models and OSS is by business. impact of knowledge economy and why design should be open sourced
 -  developing an understanding of software differentiators and why the common stuff (90% of software) should be open sourced
 
+
+- Evaluation models
+    - http://oss-watch.ac.uk/resources/reusereadinessrating
+    - http://backend.qsos.org/download/qsos-2.0_en.pdf
+    - http://www.openbrr.org/
+    - http://en.wikipedia.org/wiki/Open_source_software_assessment_methodologies
 
 
 
@@ -41,6 +61,7 @@ permalink: /resources/
 - https://opensource.com/resources/ebooks
 - producingoss 
 - Art_of_Community_Second_Edition  http://www.artofcommunityonline.org/about/#chapter1 
+- http://oreilly.com/openbook/opensources/book/index.html
 
 
 ##Journals
@@ -51,6 +72,11 @@ permalink: /resources/
 
 
 ##Blogs
+
+Reviewed:
+
+- http://firstmonday.org/ojs/index.php/fm/issue/view/212
+- http://www.catb.org/~esr/writings/magic-cauldron/magic-cauldron.html
 - http://www.linux-mag.com/id/2421/
 - http://www.idealware.org/blog/2009/03/evaluating-open-source-systems-hard.html
 - http://redmonk.com/sogrady/2010/10/05/open-source-email-traffic/
@@ -144,6 +170,9 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
 ## Sites
 
 - codeplex.com
+- http://flossmetrics.org/
+- gitorious.com
+- http://www.libresoft.es/node/251/publications
 
 - http://firstmonday.org/ojs/index.php/fm/article/view/1018/939%26gt%3BI
 - http://www.dwheeler.com/oss_fs_why.html
@@ -198,6 +227,10 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
 
 - http://sourceforge.net/p/forge/helpwanted/misc/
 - http://www.reddit.com/r/opensource/
+- https://github.com/drakkr
+- http://larjona.wordpress.com/2012/01/06/what-happened-to-openbrr-business-readiness-rating-for-open-source/
+- http://ec.europa.eu/research/infocentre/article_en.cfm?id=/research/headlines/news/article_07_04_20_en.html&item=&artid=
+- http://www.libresoft.es/
 
 -http://stackoverflow.com/questions/2353179/what-is-the-best-method-to-gain-users-and-contributors-for-my-own-open-source-pr
 - http://stackoverflow.com/questions/2567766/best-practices-for-setup-and-management-of-an-open-source-project?rq=1
