@@ -13,7 +13,6 @@ permalink: /resources/
 - browse site for other interesting/related articles 
 - flag said articles for later
 
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: inv work criteria instead of checklist -- maybe more matches on google"/>
 
 ## Quotes
 
@@ -21,16 +20,23 @@ permalink: /resources/
 - "Good software is rarely the result of brilliant programming, despite the mythos that has grown up around the activity. Most often, good software results from good design, good planning, and strict attention to detail: all those things programmers find boring and not-fun."
 
 
+
+## Issues with open source
+
+- usability - making open source software available as a service
+- collaboration - collaboration tools for purely decentralized communities
+- evaluation / analytics - foss evaluation software
+- marketing - freshmeat alternatives
+- payment/ micropayment / sustainability - SaaS / pay based on usage
+- apis / mashups / communication protocols - alternatives to json/xml etc. + exposing and manipulating apis
+
 ##Topics
 
 
-- gathering requirements 
-- documentation
+- gathering requirements <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: check computer checkvist for software requirements wiki"/>
+- documentation <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: check computer checkvist for software requirements wiki"/>
 - design 
 - pre-requisites to starting  a project
-  - evaluate and articulate your idea
-  - finding similar / related projects
-  
 - Contributors
     - incentives 
         - http://www.dwheeler.com/oss_fs_why.html#motivation
@@ -58,16 +64,15 @@ permalink: /resources/
 
 ##Books  
 
-- https://opensource.com/resources/ebooks
+Reviewed:
+
 - producingoss 
-- Art_of_Community_Second_Edition  http://www.artofcommunityonline.org/about/#chapter1 
+
+
+- Art_of_Community_Second_Edition  <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: add pdf link"/>
 - http://oreilly.com/openbook/opensources/book/index.html
 
 
-##Journals
-
-<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: add list of journals from springler and floss"/>
-- software quality control
 
 
 
@@ -75,7 +80,10 @@ permalink: /resources/
 
 Reviewed:
 
-- http://firstmonday.org/ojs/index.php/fm/issue/view/212
+- http://www.dwheeler.com/oss_fs_eval.html
+
+- http://www.catb.org/esr/writings/taoup/html/
+- http://www.catb.org/~esr/writings/
 - http://www.catb.org/~esr/writings/magic-cauldron/magic-cauldron.html
 - http://www.linux-mag.com/id/2421/
 - http://www.idealware.org/blog/2009/03/evaluating-open-source-systems-hard.html
@@ -84,7 +92,6 @@ Reviewed:
 -http://dodcio.defense.gov/OpenSourceSoftwareFAQ
 - https://javaho.wordpress.com/2011/05/17/steps-to-evaluate-open-source-software/
 - http://www.ebizq.net/topics/open_source/features/6853.html
-- **** http://www.dwheeler.com/oss_fs_eval.html
 - https://dl.acm.org/citation.cfm?id=1519971
 - http://research.microsoft.com/apps/video/dl.aspx?id=194743
 - https://opensource.com/life/14/1/evaluate-sustainability-open-source-project
@@ -213,6 +220,10 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
     - inv other o'reilly ventures
     
 
+##Journals
+
+<img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: add list of journals from springler and floss"/>
+- software quality control
 
 
 ## open government + open source
@@ -232,7 +243,6 @@ http://www.welchco.com/02/14/01/60/00/10/3101.HTM
 - http://ec.europa.eu/research/infocentre/article_en.cfm?id=/research/headlines/news/article_07_04_20_en.html&item=&artid=
 - http://www.libresoft.es/
 
--http://stackoverflow.com/questions/2353179/what-is-the-best-method-to-gain-users-and-contributors-for-my-own-open-source-pr
 - http://stackoverflow.com/questions/2567766/best-practices-for-setup-and-management-of-an-open-source-project?rq=1
 - http://stackoverflow.com/questions/555982/what-are-the-best-practices-for-releasing-an-open-source-project?rq=1
 - http://stackoverflow.com/questions/119829/what-are-some-things-that-you-do-to-make-sure-a-project-is-ready-to-be-released

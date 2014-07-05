@@ -62,6 +62,11 @@ title:  "Open Source Software checklist"
 - licensing    
 
 ## Stage 2 - Development
+- Methods
+  - Martin Fowler / agile / esr hack
+    - minimum effort path to get result
+    - write automated test to check result against spec
+    - refactor
 - *open source from day one*
 - *explain your role*  - open source the code does not necessarily mean opening your schedule. Clear things up.
   - how serious are you about the project? 
@@ -75,9 +80,17 @@ title:  "Open Source Software checklist"
   - install instructions
   - configuration 
   
-- *package*
-  - binaries in download section
-  - uses appropriate package manager
+- release early, release often  
+- *release scripts*
+  - packaging binaries
+    - binaries in download section
+   - uses appropriate package manager
+  - deployment scripts
+    - travis
+- test    
+- Don't be afraid to throw away code, if you don't feel good about it
+- Simple Design & minimum-effort path (simplest thing that works but not the dumbest thing)
+- Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away 
 
 ## Stage 3 - Marketing
 - spread the word
@@ -90,6 +103,10 @@ title:  "Open Source Software checklist"
 
 ## Stage 4 - Contributors
 
+- delegate everything you can
+- Be open to the point of promiscuity
+- listen to users and build contributors
+- procedures: "to capture the best known way to accomplish routine tasks"
 - *make it easy*
   - small tasks identified in the code and linked to the issue tracker
   - up-to-date HOWTO guides on how to develop locally
@@ -124,6 +141,9 @@ title:  "Open Source Software checklist"
 -------------------------------------------------
 
 
+Notes:
+http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/ar01s13.html
+the role of reputation in measuring contributions and evaluating projects
 
 
 Notes: 
