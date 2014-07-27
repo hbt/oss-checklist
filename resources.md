@@ -18,6 +18,8 @@ permalink: /resources/
 
 - "A Project Lives (Or Dies) On Documentation.  A project without documentation is almost guaranteed to fail. "
 - "Good software is rarely the result of brilliant programming, despite the mythos that has grown up around the activity. Most often, good software results from good design, good planning, and strict attention to detail: all those things programmers find boring and not-fun."
+- "If you want a largest lesson from open source, here's mine: trust decentralization over centralization, voluntarism over coercion, bottom-up over top-down, adaptation over planning, openness over secrecy, practice over ideology, and markets over politics. Freedom works. Now go do it! " - esr
+- "When the rent from secret bits is higher than the return from open source, it makes economic sense to be closed-source. When the return from open source is higher than the rent from secret bits, it makes sense to go open source."
 
 
 
@@ -44,6 +46,7 @@ permalink: /resources/
         - http://www.dwheeler.com/oss_fs_why.html#management
   
 - Economics of open source
+  - http://www.catb.org/~esr/writings/cathedral-bazaar/magic-cauldron/    
     - http://firstmonday.org/ojs/index.php/fm/article/view/1470/1385
     - http://www.freeos.com/articles/4087
     - https://web.archive.org/web/20030203030829/http://clustering.foundries.sourceforge.net/article.pl?sid=02/08/19/1426245
@@ -60,6 +63,8 @@ permalink: /resources/
     - http://www.openbrr.org/
     - http://en.wikipedia.org/wiki/Open_source_software_assessment_methodologies
 
+- Politics
+  - [Microsoft internal memo on the threat of OSS and how to mitigate it](http://catb.org/esr/halloween/halloween1.html#_Toc427495715)
 
 
 ##Books  
