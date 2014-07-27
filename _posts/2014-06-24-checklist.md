@@ -5,6 +5,45 @@ title:  "Open Source Software checklist"
 
 <img src="https://raw.githubusercontent.com/hbtlabs/oss-checklist/master/doc/icons/Misc-Settings-icon.png" width="20" title="TODO: add flowchart with graphiz"/>
 
+problem identification / definition
+- https://www.google.ca/search?channel=fs&q=problem+definition+for+project&revid=1953962045&bav=on.2,or.r_cp.r_qf.&bvm=pv.xjs.s.en.PAf6cFvc9yg.O&ech=1&psi=qOrUU4v2H6eD8QHJ24CoAQ.1406462633221.3&ei=qOrUU4v2H6eD8QHJ24CoAQ&emsg=NCSR&noj=1
+- http://www.sciencebuddies.org/engineering-design-process/engineering-design-problem-statement.shtml
+- http://www.sciencebuddies.org/engineering-design-process/engineering-design-problem-statement.shtml#checklist
+- https://www.google.ca/search?client=ubuntu&channel=fs&q=problem+definition&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=hP3IU83rG8KC8QfDxIG4CQ#channel=fs&q=problem+definition+in+research&revid=1953962045
+- http://www.studygs.net/problem/problemsolvingv1.htm
+- http://ctb.ku.edu/en/table-of-contents/analyze/analyze-community-problems-and-solutions/define-analyze-problem/main
+- http://www.wikihow.com/Define-a-Problem
+
+
+Research
+research the problem and how other people experiencing it have to say about it . differnet from searching for solutions. Goal here is to make sure you are addressing the right problem.
+  case: think big/abstract - e.g  phpmyadmin mysql browser with keyboard shortcuts vs vimium
+
+- learn the vocabulary of the problem (reading articles etc.) to learn the right keywords to make better searches
+  case: evaluate OSS
+  
+-come up with a list of basic product requirements.   
+
+research existing solution to that problem + evaluate themn
+  case: backup
+
+consider using different products and mashing them together to get what you want
+  case: backup
+  
+
+Post research analysis
+possibilities:
+- you found the perfect product
+- you found multiple products and you have to mash them up
+- you found existing solution(s) but some key requirements are not addressed. (fork, contribute, develop)
+- you found no solutions (worst)
+
+
+In the case of existing solutions:
+- if closed source, consider developing the feature separately and get it to communicate with the closed source product
+- if open source, consider the effort required to integrate your feature in the project (e.g history of pull requests, is it worth contributing?). 
+Otherwise, treat it as closed source and develop the feature separately. It is not adivsed to fork and maintain a custom fork unless you can really isolate your changes
+
 
 ## Stage 0 - Before starting an OSS project
 
@@ -67,6 +106,8 @@ title:  "Open Source Software checklist"
 - licensing    
 
 ## Stage 2 - Development
+- Solve the right amount of the problem first -- Solving too much of the problem relegates the OSS development community to the role of testers. Solving too little before going OSS reduces "plausible promise" and doesn't provide a strong enough component framework to efficiently coordinate work.
+- Importance of modularity / componentization in order to deal with integration of patches from multiple sources later on
 - Methods
   - Martin Fowler / agile / esr hack
     - minimum effort path to get result
